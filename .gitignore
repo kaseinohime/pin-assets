@@ -1,0 +1,16 @@
+# 画像だけを置くリポジトリ。以下は絶対にコミットしない。
+*.csv
+*.md
+!README.md
+*.json
+*.py
+*.txt
+articles/
+plans/
+data/
+keywords/
+out/
+.venv/
+.env
+.DS_Store
+Thumbs.db
